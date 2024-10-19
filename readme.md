@@ -4,7 +4,7 @@ This is a Django-based backend system that fetches financial data from the Alpha
 
 ## Live website
 
-[View live website here](https://task-trial.devltt.site/backtest)
+[View live website here](https://trial-task.devltt.site/backtest)
 
 ## Table of Contents
 
